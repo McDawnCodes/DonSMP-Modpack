@@ -59,3 +59,79 @@ By accessing, downloading, forking, contributing to, or otherwise interacting wi
 3. The author retains no liability for any direct, indirect, incidental, consequential, or punitive damages resulting from such use.  
 
 All product names, logos, and brands mentioned herein are for identification purposes only and are the property of their respective holders. **No endorsement or affiliation is implied.**
+
+# ⚖️ Grandiose Legal Disclaimer of Non-Ownership and Universal Abdication of Intellectual Property Claims
+
+By the act of perusing, downloading, cloning, forking, glancing at, accidentally stumbling upon, or otherwise becoming cognizant of the digital contents contained within this repository (hereinafter referred to as **“The Repository,” “This Work,” “The Digital Conglomeration,”** or **“That Folder on GitHub”**), you, the reader, user, observer, or otherwise interested party, hereby acknowledge, affirm, and solemnly swear that the author, compiler, or humble contributor of this digital assemblage (hereinafter referred to as **“The Author,” “This Individual,”** or **“That One Person on the Internet”**) does not, has not, and shall not claim ownership, possession, dominion, or any proprietary entitlement over any material, code, concept, algorithm, visual asset, textual content, byte sequence, or metaphysical entity that may be construed as intellectual property within or tangentially related to the aforementioned Repository.  
+
+For absolute clarity and avoidance of any conceivable misinterpretation, **all intellectual property, trademarks, copyrights, patents, and other proprietary instruments** referenced, included, incorporated, mimicked, hinted at, or otherwise implied herein remain the **exclusive property of their original and rightful owners**. The Author, being of sound mind but of questionable judgment, hereby disclaims all ownership, co-ownership, partial ownership, or imaginary ownership, whether in actuality, spirit, or digital hallucination, of any such material.  
+
+---
+
+## 📚 Educational Intent
+
+This Repository is distributed in the noble spirit of **educational enlightenment and recreational experimentation**, and is to be utilized, viewed, or engaged with at one’s own discretion and peril. Nothing within these files, commits, branches, or accompanying markdown documents should be interpreted as a declaration of creative originality, intellectual authorship, or legal claim upon any third-party work, whether licensed under open source, freeware, or the ever-elusive “public domain” (which, for legal purposes, may or may not truly exist in your jurisdiction).  
+
+---
+
+## 🧩 Absence of Warranties
+
+The Author makes no representations or warranties of any kind — **express, implied, spiritual, or accidental** — including but not limited to warranties of merchantability, noninfringement, cosmic alignment, or fitness for any conceivable purpose. This includes, but is not limited to, educational, professional, mystical, or esoteric applications of the code, text, or concepts herein.  
+
+Should any party utilize, misinterpret, redistribute, remix, refactor, or repurpose any portion of this material, they do so entirely at their own risk, with full knowledge that the Author assumes no responsibility for consequences physical, digital, existential, or otherwise metaphysical.  
+
+---
+
+## 🏛️ Respect Toward Original Creators
+
+Furthermore, the Author acknowledges the **indisputable supremacy** of the original creators, inventors, designers, and architects of any referenced technologies, frameworks, software packages, or creative works. All **trademarks, brand names, company names, logos, and proprietary identifiers** are used solely for the purpose of reference, education, or comedic exaggeration, and do not imply sponsorship, endorsement, or authorization of any kind.  
+
+Should any such entities, individuals, or divine beings feel that their intellectual domain has been infringed upon by mere mention or appearance within this Repository, they are kindly invited to take a deep breath, recognize that imitation is a form of flattery, and then proceed to contact the Author for removal, clarification, or mutual enlightenment.  
+
+---
+
+## 📜 Terms and Conditions of Engagement
+
+By engaging with this Repository, you hereby agree to the following terms and conditions (though “agree” might be a generous word, since you’ve already read this far):  
+
+1. You acknowledge that **The Author is not responsible for anything**, ever.  
+2. You acknowledge that **The Author does not own, claim, or even aspire to own** any of the ideas, code, or creative residue contained herein.  
+3. You understand that **any resemblance between this Repository and any real, functional, or valuable software is purely coincidental.**  
+4. You agree that, in the event of confusion, malfunction, emotional distress, or cosmic misalignment caused by this Repository, you will hold The Author harmless and direct all complaints toward your nearest available mirror.  
+5. You accept that, by the time you finish reading this, you will have wasted valuable minutes of your life that you shall never recover.  
+
+---
+
+## 🌀 Philosophical Addendum
+
+This Repository, its structure, syntax, and semantic composition are, to the fullest extent permitted by the known laws of physics and metaphysics, **offered freely, without guarantee or ownership**.  
+
+Any derivative works, forks, or clones created therefrom remain under the same principle of **“finders keepers, but ownership belongs elsewhere.”**  
+
+No statement within this Disclaimer shall be construed as the relinquishment of moral decency, artistic integrity, or one’s right to say *“I just found this on the internet.”*  
+
+The Author reserves the right to retroactively deny having written any of this should legal complications arise, and to claim at a later date that the Repository was generated by an autonomous artificial intelligence, a mischievous intern, or an especially literate raccoon.  
+
+---
+
+## 💫 Final Declaration
+
+To reiterate, all code, comments, and conceptual frameworks that resemble those belonging to third parties are wholly coincidental, unintentional, or the result of innocent educational curiosity.  
+
+The Author acknowledges and celebrates the brilliance of original creators and contributors worldwide, whose work makes learning and innovation possible for the rest of us mere mortals.  
+
+Finally, by continuing to exist in proximity to this Repository — whether digitally, mentally, or spiritually — you hereby agree that **The Author owns nothing, claims nothing, and desires nothing** beyond peace of mind and perhaps a few GitHub stars.  
+
+**All rights reserved — by someone else.**
+
+---
+
+### 🏰 Appendix A: Certification of Legal Non-Ownership
+
+This document was ceremoniously drafted, reviewed, and ceremonially ignored under the auspices of the **Order of Open-Source Non-Proprietors**, established circa the Year of Our Commit 2025.  
+
+Witnessed, notarized (metaphorically), and archived in the immutable cloud of plausible deniability, under seal of the **Grand GitHub Repository of Irrelevant Legal Formalities**, by the undersigned party who definitely does not own any of this.  
+
+Signed with the utmost humility, on this digital day,  
+**– The Author, Esq. (Non-Practicing and Non-Owning)**
+
