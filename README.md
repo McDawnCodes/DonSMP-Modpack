@@ -25,11 +25,12 @@ This repo contains all the mods and configuration files used in the modpack.
 ├── defaultconfigs/     # Default mod configs (for modpacks)
 ├── licensing/          # Attributed licensing files and documentation
 └── README.md           # This file
-
+```
 
 *This is a repository to store and access vital SMP files needed to run the mods on Minecraft Java 1.21.8. Has required dependencies as well as optional resource packs. Minecraft is a registered trademark of Mojang Studios and Microsoft. All rights are reserved for Mojang Studios and Microsoft, as per their EULA agreement. Any redistrubution of files present here must be in accordance with Mojang's EULA. Thank you!
 
-## ⚠️ Disclaimer (Plain English)
+
+##⚠️ Disclaimer (Plain English)
 
 Hey there! This repo is shared just for **learning, experimenting, and having fun**.  
 
