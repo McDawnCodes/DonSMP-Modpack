@@ -7,9 +7,9 @@ This repo contains all the mods and configuration files used in the modpack.
 
 ## 📦 Modpack Details
 
-- **Minecraft Version:** 1.21.8  
+- **Minecraft Version:** 1.20.1  
 - **Mod Loader:** Fabric  
-- **Mod Loader Version:** Fabric 0.17.2
+- **Mod Loader Version:** Fabric 0.18.3
 - **Modpack Type:** Elevated Vanilla-like Experience and Adventure
 
 ---
